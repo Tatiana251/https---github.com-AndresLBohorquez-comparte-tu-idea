@@ -1,0 +1,17 @@
+{
+  "name": "comparte-tu-idea",
+  "version": "1.0.0",
+  "description": "Blog para compartir ideas y/o experiencias.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "mongo",
+    "express",
+    "nodejs"
+  ],
+  "author": "Andres, Tatiana",
+  "license": "MIT"
+}
